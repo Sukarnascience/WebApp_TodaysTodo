@@ -11,7 +11,7 @@ to go anywhere outside your device Until and unless you purposely send anyone.
 > Actually it was supposed to be a PWA app ( progressive web app ) according to my code but I don't 
 know for any of the technical issue or error which I might have done it's now no more PWA App
 
-### Live URL : [Open](https://sukarnascience.github.io/WebApp_TodaysTodo/)
+### Live URL : [Open](https://todaystodo-v1.web.app/)
 
 ## Licence Under: [MIT Licence](LICENSE)
 
